@@ -5,4 +5,4 @@
 *.o
 
 #executable files
-examples/usage
+usage
